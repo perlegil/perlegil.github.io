@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perlegil.github.io/sitemap.html.gz
+Sitemap: https://perlegil.github.io/app/sitemap.html.gz
+Sitemap: https://perlegil.github.io/assets/sitemap.html.gz
+Sitemap: https://perlegil.github.io/css/sitemap.html.gz
+Sitemap: https://perlegil.github.io/includes/sitemap.html.gz
+Sitemap: https://perlegil.github.io/item/sitemap.html.gz
+Sitemap: https://perlegil.github.io/src/sitemap.html.gz
